@@ -1,5 +1,5 @@
 //
-//  TEAViewController.h
+//  TEATableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Tony Angelo on 6/22/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface TEAViewController : UIViewController
+@interface TEATableViewController : UITableViewController
 
 @end
